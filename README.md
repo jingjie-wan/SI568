@@ -5,7 +5,7 @@ Fitness and nutrition are two important factors in maintaining health. However, 
 
 Although there are plenty of similar applications in the market, this application has its advantage for being personalized by taking users’ physical condition, diet preferences, feedback, etc. into consideration, helping them persist in a healthy lifestyle without pain and extra efforts. Moreover, the application will provide restaurant recommendations which offers the menu components, making it easier for them to follow the meal plan.
 
-It is easy to run the application: just run all the cells above and input the answers when prompted. Then the application will generate a personalized workout and meal plan for today for the user.In detail, the application ran the following steps and features:
+It is easy to run the application: just run all the cells above and input the answers when prompted. Then the application will generate a personalized workout and meal plan for today for the user. In detail, the application ran the following steps and features:
 
 1. A welcome message is shown on the screen. Then users would be asked to answer several questions based on their physical, fitness and meal information, including the height, weight, age, gender, disease, time for workout, special diet requirements, exercises the user like and doesn't like, etc.
 2. Based on the information, a workout and meal plan with the calories of each part and the nutrition ingredients is generated.The estimated Basal Metabolic Rate (BMR) and daily caloric goal are also included.
